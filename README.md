@@ -1,0 +1,1 @@
+# Js-Task-8-for-while-loop
